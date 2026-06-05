@@ -7,6 +7,6 @@ QA Tester, com foco em qualidade de software e game testing, testes manuais e au
 </p>
 
 <p align="left"> 
-Utilizo do Cypress para realização de testes automatizados e possuo experencia de 1 ano utilizando JIRA para bugs reports dentro
+Utilizo do CYPRESS para realização de testes automatizados e possuo experencia de 1 ano utilizando JIRA para bugs reports dentro
   da minha ultima empresa.
 </p>
