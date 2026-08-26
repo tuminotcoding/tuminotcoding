@@ -10,3 +10,13 @@ QA Tester, com foco em qualidade de software e game testing, testes manuais e au
 Utilizo do CYPRESS para realização de testes automatizados e possuo experencia de 1 ano utilizando JIRA para bugs reports dentro
   da minha ultima empresa.
 </p>
+
+<p align="left"> 
+🚀 Áreas de interesse:
+- Quality Assurance (QA)
+- Testes de Software
+- Automação de Testes
+- Desenvolvimento de Software
+- Suporte e Análise de Sistemas
+- Tecnologia da Informação
+</p>
